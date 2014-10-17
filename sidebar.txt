@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gwa:home|Door43 (gwa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gwa|d43-gwa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gwa/archive/master.zip|d43-gwa.zip]]
+
+**Recent Changes**
+{{changes>ns = gwa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gwa|Ethnologue data]]
+
